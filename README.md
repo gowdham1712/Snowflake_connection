@@ -1,1 +1,1 @@
-# Snowflake_connection
+# snowflake-connecting-script
